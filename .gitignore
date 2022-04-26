@@ -77,3 +77,4 @@ crashlytics-build.properties
 /.vs/
 /.vscode/
 /AppPackages/
+Assets/XR/Settings/Open XR Package Settings.asset
