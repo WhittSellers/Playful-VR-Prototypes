@@ -9,16 +9,16 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
   - enabled: 0
-    path: Assets/Whitt/Scenes/DoNotLookTest01.unity
+    path: Assets/Whitt/Scenes/DoNotLook/DoNotLookTest01.unity
     guid: e585dd4c294c44e4990f70fa09ccf43c
   - enabled: 0
-    path: Assets/Whitt/Scenes/DoNotLookDemo.unity
+    path: Assets/Whitt/Scenes/DoNotLook/DoNotLookDemo.unity
     guid: 278cc79f9b3d38843893b34d786fbfe7
   - enabled: 0
     path: Assets/Whitt/Scenes/PhoneCallTest.unity
     guid: bf8c680c5d7447442a8fab38946603b1
   - enabled: 1
-    path: Assets/Whitt/Scenes/CutTheCheese.unity
+    path: Assets/Whitt/Scenes/CutTheCheese/CutTheCheese.unity
     guid: 596a6d0bf1a710d49ab2b9b5067fac49
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b760be48d7decd1418e4455e6e222c16, type: 2}
